@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #61122f;
+    background-color: #8f9e20;
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -37,11 +37,11 @@ body {
     margin-top: 10px;
 }
 #nav-list a {
-    color: #951C49;
+    color: #69585e;
     text-align: center;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #61122f;
+    border: 1px solid #837ba3;
 }
 .navbar-header button.navbar-toggle {
     clear: both;
